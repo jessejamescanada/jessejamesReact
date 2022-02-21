@@ -1,0 +1,126 @@
+/* media query */
+@media (max-width: 1200px) {
+  .navbar {
+    flex-direction: column;
+  }
+  .navbar-logo img {
+    width: 100%;
+  }
+  .navbar ul {
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  .about-content {
+    flex-direction: column;
+    width: 100%;
+  }
+  .services-container {
+    height: 100%;
+    /* flex-wrap: wrap; */
+    flex-direction: column;
+  }
+  .testimonial-content {
+    /* flex-wrap: wrap; */
+    flex-direction: column;
+  }
+}
+@media (max-width: 500px) {
+  .navbar {
+    flex-direction: column;
+  }
+  .navbar-logo img {
+    width: 100%;
+  }
+  .navbar ul {
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  .showcase-content {
+    width: 100%;
+  }
+
+  .card {
+    padding: 1rem 0rem;
+  }
+  .scroll-btn {
+    left: 80%;
+  }
+  .showcase-container img {
+    height: 60vh;
+    width: auto;
+  }
+  .wedding-image-container,
+  .family-image-container {
+    height: auto;
+    width: auto;
+    margin-bottom: 1.5rem;
+  }
+  .wedding-image-container img,
+  .family-image-container img {
+    width: 100%;
+  }
+  .about-content {
+    flex-direction: column;
+    padding: 15px;
+    width: auto;
+  }
+  .about-content img {
+    width: 90%;
+    height: auto;
+  }
+  .who-content-container {
+    padding: 15px;
+    margin: 0;
+  }
+  .who-content-container p {
+    font-size: 14px;
+  }
+  .services-container {
+    flex-direction: column;
+    height: auto;
+    /* width: auto; */
+  }
+  .testimonial-content {
+    flex-direction: column;
+    padding: 0;
+  }
+  .testimonial p {
+    margin-left: 0;
+  }
+  .packages-container {
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .investment-other-container {
+    text-align: center;
+    padding: 15px;
+  }
+  .wedding-portfolio-container,
+  .family-portfolio-container,
+  .realEstate-portfolio-container {
+    display: flex;
+    flex-direction: column;
+    padding: 8px;
+  }
+  .ccField-prepend {
+    width: auto;
+  }
+  .ccField-prepend input,
+  .ccField-prepend textarea {
+    width: auto;
+  }
+  .container-image-text {
+    flex-direction: column;
+  }
+  .container-image-text img {
+    width: 100%;
+    border-radius: 0;
+    margin: auto;
+  }
+  .family-info-container {
+    margin-bottom: 2rem;
+  }
+}
