@@ -9,9 +9,10 @@ function Contact() {
         <form
          name="contact"
          method="POST"
-         data-netlify="true"
+         
           
         >
+          <input type="hidden" name="form-name" value="contact" />
           <div className="ccField-prepend">
             <label>Name<span className="star">*</span> </label>
             <input type="text" name="firstName" required placeholder='Name...'/>
