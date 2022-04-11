@@ -1,4 +1,6 @@
+import ReactGA from 'react-ga'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import RouteChangeTracker from './components/RouteChangeTracker';
 import './App.css';
 import './Mobile.css'
 import Home from './pages/Home';
@@ -10,6 +12,9 @@ import Contact from './components/Contact';
 import Navbar from './components/Navbar';
 import ScrollBtn from './components/ScrollBtn';
 import ScrollToTop from './components/ScrollToTop';
+
+const TRACKING_ID = "G-5QP5KQR032"; // YOUR_OWN_TRACKING_ID
+ReactGA.initialize(TRACKING_ID);
 
 function App() {
   return (
@@ -28,6 +33,7 @@ function App() {
       </ScrollToTop>
     </Router>
     <ScrollBtn />
+    <RouteChangeTracker />
     </>
   );
 }
