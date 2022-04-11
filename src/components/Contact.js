@@ -7,8 +7,10 @@ function Contact() {
     <div className="ccForm">
     <h3>Contact Me</h3>
         <form
-          action="https://formspree.io/photography.jesse.james@gmail.com"
-          method="POST"
+         name="contact"
+         method="POST"
+         data-netlify="true"
+          
         >
           <div className="ccField-prepend">
             <label>Name<span className="star">*</span> </label>

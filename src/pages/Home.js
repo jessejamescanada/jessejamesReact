@@ -25,7 +25,7 @@ function Home() {
     <div className="showcase-container" id='showcase1'>
         <img src={charlestonShowcase} alt="" />
         <div className="showcase-content">
-        <h1>Charleston Wedding & Family Photography</h1>
+        <h1>Beaufort Wedding & Family Photography</h1>
             <h3 className="primary-title2">Jesse James Photos</h3>
             <div className="social-container">
                 <a href="https://www.instagram.com/jessejamesphotography_" target="_blank">
@@ -53,9 +53,9 @@ function Home() {
     </div>
     </div>
     <div className="services-container" id="services">
-        <Link to='/weddings'><Card title='Weddings' info='I love weddings! Click here to see my wedding portfolio with some of my favorite images from 400 weddings and find out more about the packages I offer for your wedding in Charleston!' img={servicesWedding} /></Link>
-        <Link to='/families'><Card title='Families' info='Family photography is such an important memory to have. Check out my portfolio & learn more about my family photography packages offered in Charleston & surrounding areas.' img={servicesFamily}/></Link>
-        <Link to='/real-estate'><Card title='Real Estate' info='I also have been doing real estate photography for the past 5 years. If you are in need of real estate photography in Charleston, please contact me for real estate packages.' img={servicesRealEstate}/></Link>
+        <Link to='/weddings'><Card title='Weddings' info='I love weddings! Click here to see my wedding portfolio with some of my favorite images from 400 weddings and find out more about the packages I offer for your wedding in Beaufort!' img={servicesWedding} /></Link>
+        <Link to='/families'><Card title='Families' info='Family photography is such an important memory to have. Check out my portfolio & learn more about my family photography packages offered in Beaufort & surrounding areas.' img={servicesFamily}/></Link>
+        <Link to='/real-estate'><Card title='Real Estate' info='I also have been doing real estate photography for the past 5 years. If you are in need of real estate photography in Beaufort, please contact me for real estate packages.' img={servicesRealEstate}/></Link>
     </div>
 
     {/* testimonial showcase */}

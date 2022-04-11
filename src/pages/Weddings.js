@@ -26,15 +26,13 @@ function Weddings() {
         {/* <div className="wedding-image-container">
             <img src={wedding_photographer} alt="" />
         </div> */}
-        <LeftImageRightText img={barnWedding} title="Charleston Wedding Photography" info="I love the intimacy of a small wedding, elopement or engagement shoot. The couples get to kick back and relax with their closest family and friends and we can focus more on the love you two share.
-
-The beauty of photographing elopements in Charleston & Mount Pleasant is that there are so many gorgeous spots for your wedding, and I get to meet so many fun and interesting people!" />
-<RightImageLeftText img={wedding_photographer} title="Charleston Elopements" info="I've had the privilege of shooting over 400 weddings and elopements in my career. With elopements I offer a 1 - 3 hour package to cover those essential and intimate moments. I absolutely love elopements and that has become my main focus as my career has evolved. I do photograph a few larger weddings each year still and I offer a 6 or 8 hour package for those."/>
-<LeftImageRightText img={charleston_proposal} title="Charleston Engagements" info="Along with weddings and elopements, I also offer engagement photography. In my longer wedding packages, your engagement photos are included! Engagements are probably my favorite thing to photograph. The two of you get dressed up, we go to a few different locations, you share a lot of laughs and kisses and we create some gorgeous images together!" />
+        <LeftImageRightText img={barnWedding} title="Beaufort Wedding Photography" info="I love wedding photography. I have been shooting weddings since 2009 and have photographed over 400 weddings in my career. I love to be with you every step of the way, from when you are planning out your timeline, your engagements, to the 'must have' shots you want on your wedding day. I offer a couple of different packages which can be customized to suit your needs" />
+<RightImageLeftText img={wedding_photographer} title="Beaufort Elopements" info=" I adore elopements! If I could, I'd photograph an elopement every single day. There is something about the intimacy of a small wedding or elopement that I just love. I offer two different elopement packages which can be customized if needed."/>
+<LeftImageRightText img={charleston_proposal} title="Beaufort Engagements" info="Along with weddings and elopements, I also offer engagement photography. In my longer wedding packages, your engagement photos are included! Engagements are so much fun to photograph. The two of you get dressed up, we go to a few different locations, you share a lot of laughs and kisses and we create some gorgeous images together!" />
         <div className="wedding-info-container">
 <p>My elopement & engagement packages starts at $399. They include the fully retouched images in full resolution plus an online gallery.
 
-My Wedding photography packages start at $2499 for 6 hours of coverage and include the fully retouched images, engagement shoot and an online gallery.</p>
+My Wedding photography packages start at $2099 for 6 hours of coverage and include the fully retouched images, engagement shoot and an online gallery.</p>
         </div>
         </div>
         <div className="wedding-portfolio-container">

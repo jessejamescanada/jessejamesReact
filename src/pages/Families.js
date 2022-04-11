@@ -21,7 +21,7 @@ function Families() {
         {/* <div className="family-image-container">
             <img src={charleston_family_photography} alt="" />
         </div> */}
-        <LeftImageRightText img={charleston_family_photography} title="Charleston Family Photography" info="I love taking family photos in Charleston. There are so many great location to choose from! You can never go wrong with a nice park or taking photos on the beach during sunset. Family photos are so important. It's the perfect way to have a keepsake to hang in your home. I like to do a mix of traditional and candid photos where we get some great laughs (usually by me making a fool of myself!) and the classic poses that are timeless.
+        <LeftImageRightText img={charleston_family_photography} title="Beaufort Family Photography" info="I love taking family photos in Beaufort. There are so many great location to choose from! You can never go wrong with a nice park or taking photos on the beach during sunset. Family photos are so important. It's the perfect way to have a keepsake to hang in your home. I like to do a mix of traditional and candid photos where we get some great laughs (usually by me making a fool of myself!) and the classic poses that are timeless.
 
 I offer advice on what to wear, the time of day that's best and can give you different locations we can use for your family photos.
 

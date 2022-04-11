@@ -57,7 +57,7 @@ html {
   border: none;
   outline: none;
   cursor: pointer;
-  color: green;
+  color: #999;
 }
 
 .btn {
@@ -279,13 +279,24 @@ h3 {
 
 /* card component */
 .card {
-  background: #fff4f0;
+  /* background: #f8edeb; */
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 1rem;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  transition: 0.3s;
+  transition: all 0.3s ease;
+  position: relative;
+}
+.services-container a:first-child{
+  background: #fcd5ce91;
+}
+
+.services-container a:nth-child(2){
+  background: #f8edeb;
+}
+.services-container a:nth-child(3){
+  background: #f9dcc49f;
 }
 
 .card:hover {

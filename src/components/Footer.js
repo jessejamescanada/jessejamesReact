@@ -4,7 +4,7 @@ function Footer() {
   return (
     <footer>
     <p>© 2022 Jesse James Photos</p>
-    <div className="nextp">Charleston, SC</div>
+    <div className="nextp">Beaufort, SC</div>
     <div className="social-container">
       <a
         href="https://www.instagram.com/jessejamesphotography_"

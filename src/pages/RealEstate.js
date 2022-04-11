@@ -26,8 +26,8 @@ function RealEstate() {
             <img src='' alt="" />
         </div>
         <div className="realEstate-info-container">
-            <h1>Charleston Real Estate Photography</h1>
-            <p>I offer stand alone and package deals for my real estate photography services in Charleston and the low country. All images for realtors have a turnaround time of 24-36 hours max and come in high resolution and fully edited. Please message me for details!</p>
+            <h1>Beaufort Real Estate Photography</h1>
+            <p>I offer stand alone and package deals for my real estate photography services in Beaufort and the surrounding areas. All images for realtors have a turnaround time of 24-36 hours max and come in high resolution and fully edited. Please message me for details!</p>
 
         </div>
         </div>
