@@ -13,7 +13,7 @@ import Navbar from './components/Navbar';
 import ScrollBtn from './components/ScrollBtn';
 import ScrollToTop from './components/ScrollToTop';
 
-const TRACKING_ID = "G-5QP5KQR032"; // YOUR_OWN_TRACKING_ID
+const TRACKING_ID = "UA-15287004-2"; // YOUR_OWN_TRACKING_ID
 ReactGA.initialize(TRACKING_ID);
 
 function App() {
