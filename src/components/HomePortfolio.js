@@ -15,34 +15,34 @@ function HomePortfolio() {
       
     <div className="wedding-portfolio-container" id="portfolio">
     <div className="wedding-image">
-        <img src={wedding1}alt="" />
+        <img src={wedding1}alt="wedding image with horse" />
     </div>
     <div className="wedding-image">
-        <img src={wedding2} alt="" />
+        <img src={wedding2} alt="night wedding with lights" />
     </div>
     <div className="wedding-image">
-        <img src={family1} alt="" />
+        <img src={family1} alt="mother daughter family photo" />
     </div>
     <div className="wedding-image">
-        <img src={engagement1} alt="" />
+        <img src={engagement1} alt="beach engagements" />
     </div>
     <div className="wedding-image vert">
-        <img src={engagement2} alt="" />
+        <img src={engagement2} alt="silhouette engagement photo" />
     </div>
     <div className="wedding-image">
-        <img src={family2} alt="" />
+        <img src={family2} alt="maternity photography with flowers" />
     </div>
     <div className="wedding-image vert">
-        <img src={family3} alt="" />
+        <img src={family3} alt="child portraits" />
     </div>
     <div className="wedding-image">
-        <img src={wedding3} alt="" />
+        <img src={wedding3} alt="beaufort wedding photographer" />
     </div>
     <div className="wedding-image">
-        <img src={wedding4} alt="" />
+        <img src={wedding4} alt="flowergirls with bride" />
     </div>
     <div className="wedding-image">
-        <img src={engagement3} alt="" />
+        <img src={engagement3} alt="beaufort engagement" />
     </div>
 
 </div>

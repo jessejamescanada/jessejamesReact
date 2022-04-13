@@ -23,9 +23,9 @@ function Home() {
 <>
     {/* showcase1 */}
     <div className="showcase-container" id='showcase1'>
-        <img src={charlestonShowcase} alt="" />
+        <img src={charlestonShowcase} alt="Beaufort Wedding Photographer" />
         <div className="showcase-content">
-        <h1>Beaufort Wedding & Family Photography</h1>
+        <h1>Beaufort Wedding Photography</h1>
             <h3 className="primary-title2">Jesse James Photos</h3>
             <div className="social-container">
                 <a href="https://www.instagram.com/jessejamesphotography_" target="_blank">
@@ -47,7 +47,7 @@ function Home() {
 
     {/* showcase2 */}
     <div className="showcase-container" id='showcase1'>
-        <img src={investmentShowcase} alt="" />
+        <img src={investmentShowcase} alt="beaufort photographer" />
         <div className="showcase-content">
             <h2 className="primary-title">Services</h2>
     </div>
@@ -60,7 +60,7 @@ function Home() {
 
     {/* testimonial showcase */}
     <div className="showcase-container" id='showcase1'>
-        <img src={testimonialShowcase} alt="" />
+        <img src={testimonialShowcase} alt="testimonials" />
         <div className="showcase-content">
             <h2 className="primary-title">Testimonials</h2>
     </div>
@@ -70,7 +70,7 @@ function Home() {
 
     {/* portfolio showcase */}
     <div className="showcase-container" id='showcase1'>
-        <img src={portfolioShowcase} alt="" />
+        <img src={portfolioShowcase} alt="beaufort wedding and family portfolio" />
         <div className="showcase-content">
             <h2 className="primary-title">Portfolio</h2>
     </div>

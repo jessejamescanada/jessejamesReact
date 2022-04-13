@@ -18,47 +18,44 @@ function Families() {
   return (
     <div>
     <div className="family-container">
-        {/* <div className="family-image-container">
-            <img src={charleston_family_photography} alt="" />
-        </div> */}
+
         <LeftImageRightText img={charleston_family_photography} title="Beaufort Family Photography" info="I love taking family photos in Beaufort. There are so many great location to choose from! You can never go wrong with a nice park or taking photos on the beach during sunset. Family photos are so important. It's the perfect way to have a keepsake to hang in your home. I like to do a mix of traditional and candid photos where we get some great laughs (usually by me making a fool of myself!) and the classic poses that are timeless.
 
 I offer advice on what to wear, the time of day that's best and can give you different locations we can use for your family photos.
 
 My family photography packages start at $229 for the mini package and go up from there. They all include fully retouched images in full resolution plus an online gallery. Contact me for more info!" />
         <div className="family-info-container">
-            {/* <h1>Charleston Family Photography</h1>
-            <p></p> */}
+
         <RightImageLeftText img={charleston_maternity} title="Maternity Photography" info="I adore maternity photography. There is something so beautiful about it. We can grab a few outfits, some props and capture some amazing images that you will always cherish." />
         </div>
         </div>
         <div className="family-portfolio-container">
             <div className="family-image">
-                <img src={fall_family_portrait}alt="" />
+                <img src={fall_family_portrait}alt="beaufort family photography" />
             </div>
             <div className="family-image vert">
-                <img src={family_photographer} alt="" />
+                <img src={family_photographer} alt="beaufort family" />
             </div>
             <div className="family-image">
-                <img src={family_photography} alt="" />
+                <img src={family_photography} alt="family photography" />
             </div>
             <div className="family-image vert">
-                <img src={beach_family} alt="" />
+                <img src={beach_family} alt="family photography on the beach" />
             </div>
             <div className="family-image vert">
-                <img src={beach_family2} alt="" />
+                <img src={beach_family2} alt="beach family photos" />
             </div>
             <div className="family-image">
-                <img src={mount_pleasant_family_photographer} alt="" />
+                <img src={mount_pleasant_family_photographer} alt="nature family photo" />
             </div>
             <div className="family-image">
-                <img src={family_portraits_charleston} alt="" />
+                <img src={family_portraits_charleston} alt="beaufort sc family pics" />
             </div>
             <div className="family-image">
-                <img src={char_family} alt="" />
+                <img src={char_family} alt="family photographer" />
             </div>
             <div className="family-image">
-                <img src={winter_maternity} alt="" />
+                <img src={winter_maternity} alt="beaufort maternity" />
             </div>
         </div>
         <Contact />

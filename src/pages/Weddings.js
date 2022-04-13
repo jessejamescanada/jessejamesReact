@@ -37,43 +37,43 @@ My Wedding photography packages start at $2099 for 6 hours of coverage and inclu
         </div>
         <div className="wedding-portfolio-container">
             <div className="wedding-image">
-                <img src={barnWedding}alt="" />
+                <img src={barnWedding}alt="wedding at barn" />
             </div>
             <div className="wedding-image">
-                <img src={charlestonWeddingPhotographer} alt="" />
+                <img src={charlestonWeddingPhotographer} alt="beaufort wedding photographer" />
             </div>
             <div className="wedding-image vert">
-                <img src={charleston_engagement_photography2} alt="" />
+                <img src={charleston_engagement_photography2} alt="beaufort engagement" />
             </div>
             <div className="wedding-image">
-                <img src={flowergirls_with_bride} alt="" />
+                <img src={flowergirls_with_bride} alt="flowergirls with bride" />
             </div>
             <div className="wedding-image">
-                <img src={charleston_engagement} alt="" />
+                <img src={charleston_engagement} alt="engaement photo" />
             </div>
             <div className="wedding-image">
-                <img src={fall_wedding_charleston} alt="" />
+                <img src={fall_wedding_charleston} alt="wedding in the fall" />
             </div>
             <div className="wedding-image">
-                <img src={beaufort_wedding_photo} alt="" />
+                <img src={beaufort_wedding_photo} alt="beaufort wedding" />
             </div>
             <div className="wedding-image">
-                <img src={charlestonBridesmaids} alt="" />
+                <img src={charlestonBridesmaids} alt="bridesmaids and bride" />
             </div>
             <div className="wedding-image">
-                <img src={charleston_engagement_photographer} alt="" />
+                <img src={charleston_engagement_photographer} alt="engagement photographer" />
             </div>
             <div className="wedding-image vert">
-                <img src={night_milkyway_wedding} alt="" />
+                <img src={night_milkyway_wedding} alt="wedding with milky way space background" />
             </div>
             <div className="wedding-image">
-                <img src={summerville_wedding} alt="" />
+                <img src={summerville_wedding} alt="wedding" />
             </div>
             <div className="wedding-image">
-                <img src={snow_wedding} alt="" />
+                <img src={snow_wedding} alt="destination wedding in snow" />
             </div>
             <div className="wedding-image">
-                <img src={night_wedding} alt="" />
+                <img src={night_wedding} alt="night wedding photography" />
             </div>
         </div>
         <Contact />

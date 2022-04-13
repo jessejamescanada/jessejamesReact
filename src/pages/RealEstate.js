@@ -33,55 +33,55 @@ function RealEstate() {
         </div>
         <div className="realEstate-portfolio-container">
             <div className="realEstate-image">
-                <img src={realEstate1} alt="" />
+                <img src={realEstate1} alt="beaufort real estate photography" />
             </div>
             <div className="realEstate-image">
-                <img src={realEstate2} alt="" />
+                <img src={realEstate2} alt="interior house" />
             </div>
             <div className="realEstate-image">
-                <img src={realEstate3} alt="" />
+                <img src={realEstate3} alt="house" />
             </div>
             <div className="realEstate-image">
-                <img src={realEstate15} alt="" />
+                <img src={realEstate15} alt="house" />
             </div>
             <div className="realEstate-image">
-                <img src={realEstate13} alt="" />
+                <img src={realEstate13} alt="real estate photos" />
             </div>
             <div className="realEstate-image">
-                <img src={realEstate6} alt="" />
+                <img src={realEstate6} alt="house photos" />
             </div>
             <div className="realEstate-image vert">
-                <img src={realEstate7} alt="" />
+                <img src={realEstate7} alt="beaufort real estate photography" />
             </div>
             <div className="realEstate-image">
-                <img src={realEstate8} alt="" />
+                <img src={realEstate8} alt="house photos" />
             </div>
             <div className="realEstate-image">
-                <img src={realEstate9} alt="" />
+                <img src={realEstate9} alt="house photos" />
             </div>
             <div className="realEstate-image">
-                <img src={realEstate10} alt="" />
+                <img src={realEstate10} alt="house photos" />
             </div>
             <div className="realEstate-image">
-                <img src={realEstate11} alt="" />
+                <img src={realEstate11} alt="house photos" />
             </div>
             <div className="realEstate-image">
-                <img src={realEstate12} alt="" />
+                <img src={realEstate12} alt="house photos" />
             </div>
             <div className="realEstate-image">
-                <img src={realEstate15} alt="" />
+                <img src={realEstate15} alt="house photos" />
             </div>
             <div className="realEstate-image">
-                <img src={realEstate14} alt="" />
+                <img src={realEstate14} alt="house photos" />
             </div>
             <div className="realEstate-image">
-                <img src={realEstate4} alt="" />
+                <img src={realEstate4} alt="house photos" />
             </div>
             <div className="realEstate-image">
-                <img src={realEstate16} alt="" />
+                <img src={realEstate16} alt="house photos" />
             </div>
             <div className="realEstate-image">
-                <img src={realEstate5} alt="" />
+                <img src={realEstate5} alt="house photos" />
             </div>
         </div>
         <Contact />
