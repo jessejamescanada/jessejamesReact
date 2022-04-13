@@ -4,7 +4,6 @@ import About from './About'
 import Card from '../components/Card'
 import HomePortfolio from '../components/HomePortfolio'
 import charlestonShowcase from '../img/charleston_wedding_photography.jpg'
-import servicesShowcase from '../img/serviceshowcase.jpg'
 import testimonialShowcase from '../img/wedding.jpg'
 import investmentShowcase from '../img/investment_showcase.jpg'
 import portfolioShowcase from '../img/loveshowcase.jpg'
@@ -28,12 +27,12 @@ function Home() {
         <h1>Beaufort Wedding Photography</h1>
             <h3 className="primary-title2">Jesse James Photos</h3>
             <div className="social-container">
-                <a href="https://www.instagram.com/jessejamesphotography_" target="_blank">
+                <a href="https://www.instagram.com/jessejamesphotography_" target="_blank" rel="noreferrer" >
                     <i className="fab fa-instagram fa-3x"></i>
                 </a>
                 <a
           href="https://www.facebook.com/JesseJamesPhoto/"
-          target="_blank"
+          target="_blank" rel="noreferrer"
         >
           <i className="fab fa-facebook-square fa-3x"></i>
         </a>
