@@ -7,7 +7,7 @@ function LeftImageRightText({title, info, img}) {
         <div className="container-image-text">
             <img src={img} alt="" />
             <div className="text-container">
-                <h1>{title}</h1>
+                <h2>{title}</h2>
                 <p>{info}</p>
             </div>
         </div>
